@@ -9,3 +9,4 @@ print(capital.get("India"))
 
 for value in capital.values():
     print(value)
+

@@ -8,7 +8,7 @@ for num in arr1:
     if num % 2 == 0:
         total = total + num
 print(total)
-
+#Q2
 arr2 = [1, 2, 3, 4, 5]
 result = []
 for i in range(len(arr2) - 1, -1, -1):
